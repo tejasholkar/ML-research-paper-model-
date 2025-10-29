@@ -1,0 +1,21 @@
+Title,Abstract,Category
+Deep Learning for Image Recognition,This paper explores deep learning models such as CNNs for image recognition tasks achieving high accuracy.,AI
+Natural Language Processing with Transformers,We introduce transformer-based architectures that outperform traditional RNNs in NLP applications.,AI
+Reinforcement Learning for Robotics,Robots learn to perform tasks through trial and error using reinforcement learning algorithms.,AI
+Optimizing Neural Network Training,This research focuses on methods to speed up training of neural networks using parallel processing.,AI
+AI Ethics and Responsible Machine Learning,We discuss ethical issues and fairness in artificial intelligence model deployment.,AI
+5G Network Performance Analysis,"We evaluate throughput, latency, and reliability improvements in 5G mobile networks.",Networking
+Routing Protocols in Wireless Sensor Networks,This paper compares energy-efficient routing protocols in sensor networks.,Networking
+Network Security Using Firewalls,An analysis of firewall configurations and packet filtering for secure network communication.,Networking
+Software Defined Networking for Cloud Infrastructure,The use of SDN to enhance flexibility and control in cloud-based data centers is discussed.,Networking
+IoT Communication Standards,We study communication standards and protocols used in Internet of Things devices.,Networking
+Predictive Analytics in Healthcare,Using patient data and predictive models to detect diseases early is presented.,Data Science
+Big Data Analytics for Business Insights,We describe methods to extract actionable insights from large-scale business data.,Data Science
+Data Visualization Techniques,This research explores visualization methods for large datasets using Python libraries.,Data Science
+Time Series Forecasting with Machine Learning,Forecasting stock prices and weather data using ML algorithms is studied.,Data Science
+Clustering Algorithms for Customer Segmentation,K-Means and hierarchical clustering are compared for segmenting customers.,Data Science
+Cyber Attack Detection using Machine Learning,We propose a model for detecting cyber attacks using supervised learning.,Cybersecurity
+Blockchain for Secure Transactions,Blockchain technology ensures data integrity and transparency in digital transactions.,Cybersecurity
+Phishing Email Detection System,This paper presents a classification system for detecting phishing emails using NLP.,Cybersecurity
+Intrusion Detection Using Deep Learning,We develop a deep learning-based system to identify unauthorized network access.,Cybersecurity
+Privacy Preservation in Cloud Computing,We analyze methods to protect user data in cloud environments.,Cybersecurity
